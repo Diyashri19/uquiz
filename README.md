@@ -1,111 +1,183 @@
 <div align="center">
 
-# 🎉 BUILD & EXPLORE  
-## 🚀 U‑Quiz — Interactive Learning Platform  
+# 🟣🔵 U-Quiz — Interactive Learning Platform 🔵🟣
 
-**Elevate Your YouTube Experience with Quizzes, Challenges & Leaderboards**
+### 🎓 Transform YouTube Learning into Interactive Quizzes
+
+<img src="https://img.shields.io/badge/Build-React-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Style-TailwindCSS-6C63FF?style=for-the-badge"/>
 
 ---
 
-![U‑Quiz Logo](https://via.placeholder.com/600x150.png?text=U-Quiz+Interactive+Learning)  
+<img src="images/quiz.jfif">
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
-- **React.js**  
-- **Node.js / Express**  
-- **MongoDB**  
-- **TailwindCSS**  
-- **JWT Authentication**  
-- **YouTube API Integration**
+# ✨ Introduction
+
+**U-Quiz** is a modern **gamified learning platform** that turns YouTube videos into interactive quizzes.
+
+Instead of passively watching content, users can **test their understanding, compete with others, and track learning progress** through leaderboards and dashboards.
+
+The goal is to make **learning engaging, competitive, and fun**.
 
 ---
 
-## ✨ Introduction
-U‑Quiz is a modern, gamified learning platform designed to make knowledge acquisition engaging and fun.  
-From YouTube video quizzes to leaderboards and personalized dashboards, U‑Quiz transforms passive learning into an interactive journey.
+## 🟣 Tech Stack
+
+| Technology | Purpose |
+|-----------|--------|
+| React.js | Frontend UI |
+| Node.js / Express | Backend API |
+| MongoDB | Database |
+| TailwindCSS | Styling |
+| JWT | Authentication |
+| Gemini API | AI-powered question generation |
+| YouTube Data API | Fetch video metadata |
 
 ---
 
-## 📚 Features
-- 🔑 **Authentication** — Secure login with email/password & Google sign‑in  
-- 🎥 **YouTube Quiz Generator** — Convert videos into multiple‑choice questions automatically  
-- 🧠 **Question Types** — True/False, Fill‑in‑the‑blank, and MCQs  
-- 👤 **User Dashboard** — Profile management with progress tracking  
-- 🏆 **Leaderboard** — Compete with friends and climb the ranks  
-- 🎨 **Modern UI** — Neon‑gradient design for a sleek, immersive experience  
+# 🚀 Features
+
+### 🔐 Authentication
+
+Secure user login using **Email / Password** and **Google Sign-In**.
+
+### 🎥 YouTube Quiz Generator
+
+Automatically generate **MCQs from YouTube videos**.
+
+### 🧠 Multiple Question Types
+
+Supports:
+
+* Multiple Choice Questions
+* True / False
+* Fill in the Blank
+
+### 👤 Personalized Dashboard
+
+Track progress, performance and learning statistics.
+
+### 🏆 Leaderboard
+
+Compete with other users and **climb the ranks**.
+
+### 🎨 Modern UI
+
+Clean **blue-purple gradient interface** for immersive experience.
 
 ---
 
-## 🚀 Quick Start
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/uquiz.git
-Navigate to the project folder
+# ⚡ Quick Start
 
-bash
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/uquiz.git
+```
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
 cd uquiz
-Install dependencies
+```
 
-bash
+### 3️⃣ Install Dependencies
+
+```bash
 npm install
-Run the development server
+```
 
-bash
+### 4️⃣ Run Development Server
+
+```bash
 npm run dev
-📊 Workflow
-Login/Register → Create your account
+```
 
-Generate Quizzes → From curated YouTube playlists or custom links
+---
 
-Play & Learn → Answer questions, track scores
+## 🔵 Learning Flow
 
-Compete → Check the leaderboard and challenge friends
+🔐 **Login / Register**  
+Create your account securely.
 
-Profile Dashboard → Manage your progress and achievements
+🎥 **Generate Quiz**  
+Choose a YouTube video or playlist.
 
-🖼️ Screenshots
-<div align="center">
+🧠 **Attempt Quiz**  
+Answer interactive MCQs and test your knowledge.
 
-🔑 Login & 📚 Quiz
-<img src="screenshots/login.png" width="45%" alt="Login Page"/>
-Figure 1: User login interface with email and Google sign‑in options.
+📊 **Track Progress**  
+Monitor performance in the dashboard.
 
-<img src="screenshots/quiz.png" width="45%" alt="Quiz Interface"/>
-Figure 2: Quiz interface showing multiple question types.
+🏆 **Compete**  
+Climb the leaderboard and challenge friends.
 
-👤 Dashboard & 🏆 Leaderboard
-<img src="screenshots/dashboard.png" width="45%" alt="Dashboard"/>
-Figure 3: Personalized user dashboard with profile details.
+---
 
-<img src="screenshots/leaderboard.png" width="45%" alt="Leaderboard"/>
-Figure 4: Leaderboard displaying scores and rankings.
-
-🎥 YouTube Quiz Generator & 🌐 Landing Page
-<img src="screenshots/youtubequiz.png" width="45%" alt="YouTube Quiz Generator"/>
-Figure 5: YouTube video quiz generator with auto‑generated MCQs.
-
-<img src="screenshots/landing.png" width="45%" alt="Landing Page"/>
-Figure 6: Landing page highlighting features and interactive learning.
-
-</div>
-
-🔗 Assets
-Logo & Branding: Custom neon‑gradient design
-
-UI Screenshots: Login, Dashboard, Leaderboard, Quiz Generator
-
-🌟 Roadmap
-🤖 AI‑powered question generation
-
-📱 Mobile app version
-
-🌍 Social sharing of quiz results
+# 🖼️ Screenshots
 
 <div align="center">
 
-U‑Quiz — Elevate your YouTube experience with interactive learning.
+### 🔐 Login & 📚 Quiz
+
+<img src="images/uquiz1.jpeg" width="45%" alt="Login Page"/>
+<img src="images/uquiz2.jpeg" width="45%" alt="Quiz Interface"/>
+
+**Figure 1:** Login interface with email and Google sign-in
+**Figure 2:** Interactive quiz interface
+
+---
+
+### 👤 Dashboard & 🏆 Leaderboard
+
+<img src="images/uquiz3.jpeg" width="45%" alt="Dashboard"/>
+<img src="images/uquiz4.jpeg" width="45%" alt="Leaderboard"/>
+
+**Figure 3:** User dashboard with profile details
+**Figure 4:** Leaderboard showing rankings and scores
+
+---
+
+### 🎥 Quiz Generator & 🌐 Landing Page
+
+<img src="images/uquiz6.jpeg" width="45%" alt="Quiz Generator"/>
+<img src="images/uquiz7.jpeg" width="45%" alt="Landing Page"/>
+
+**Figure 5:** YouTube video quiz generator
+**Figure 6:** Landing page highlighting features
 
 </div>
+
+---
+
+# 📦 Assets
+
+* 🎨 **Logo & Branding:** Blue-purple gradient theme
+* 📸 **Screenshots:** Login, Dashboard, Leaderboard, Quiz Generator
+* 🎬 **Interactive UI Components**
+
+---
+
+# 🌟 Future Roadmap
+
+* 🤖 **AI-Powered Question Generation**
+* 📱 **Mobile App Version**
+* 🌍 **Social Sharing of Quiz Results**
+* 🧑‍🤝‍🧑 **Multiplayer Quiz Mode**
+
+---
+
+<div align="center">
+
+## 🔵 Made with passion for interactive learning
+
+### **U-Quiz — Elevate Your YouTube Learning Experience**
+
+</div>
+
