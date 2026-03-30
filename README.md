@@ -31,7 +31,7 @@ The goal is to make **learning engaging, competitive, and fun**.
 
 | Technology | Purpose |
 |-----------|--------|
-| React.js | Frontend UI |
+| HTML,CSS | Frontend UI |
 | Node.js / Express | Backend API |
 | MongoDB | Database |
 | TailwindCSS | Styling |
