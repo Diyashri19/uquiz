@@ -4,7 +4,7 @@
 
 ### 🎓 Transform YouTube Learning into Interactive Quizzes
 
-<img src="https://img.shields.io/badge/Build-React-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-HTML5-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Node.js-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Database-MongoDB-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Style-TailwindCSS-6C63FF?style=for-the-badge"/>
